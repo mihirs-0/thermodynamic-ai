@@ -1,0 +1,10 @@
+torch>=2.2
+transformers>=4.44
+accelerate>=0.33
+tokenizers>=0.15
+datasets>=2.20
+matplotlib>=3.8
+scikit-learn>=1.4
+tqdm>=4.66
+pandas>=2.2
+numpy>=1.26
